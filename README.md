@@ -1,1 +1,1 @@
-# PP2Snake
+# Snake Game by Kalizhan
